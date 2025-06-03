@@ -6,13 +6,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // ¿Con qué variable almacenarías la edad de una persona?
-        int edadPersona;
+        String edadPersona;
 
 // ¿En qué variable guardarías el precio de un producto con decimales?
         double precioProducto;
 
 // ¿Dónde guardarías la cantidad de hijos de una familia?
-        Integer cantidadHijos;
+        byte cantidadHijos;
 
 // ¿Cómo guardarías el salario de un trabajador?
         double salarioTrabajador;
@@ -30,7 +30,7 @@ public class Main {
         String matriculaVehiculo;
 
 // ¿Dónde guardarías la cantidad de productos disponibles en un almacén?
-        Integer cantidadProductosDisponibles;
+        long cantidadProductosDisponibles;
 
 // ¿Cómo guardarías la distancia en kilómetros entre dos ciudades?
         Double distanciaEntreCiudadesKm;
@@ -72,7 +72,7 @@ public class Main {
         String unaPalabra;
 
 // ¿Qué variable usarías para guardar el número de estrellas de una calificación?
-        int numeroEstrellasCalificacion;
+        String numeroEstrellasCalificacion;
 
 // ¿Dónde indicarías si un archivo está activo o inactivo?
         boolean archivoActivo;
@@ -81,7 +81,7 @@ public class Main {
         double precioBilleteAvion;
 
 // ¿Qué variable usarías para almacenar la puntuación de un videojuego?
-        int puntuacionVideojuego;
+        short puntuacionVideojuego;
 
 // ¿Dónde indicarías si una persona tiene licencia de conducción?
         boolean tieneLicenciaConduccion;
@@ -93,7 +93,7 @@ public class Main {
         String nombreCompletoPersona;
 
 // ¿Dónde pondrías la cantidad de libros de una biblioteca?
-        int cantidadLibrosBiblioteca;
+        long cantidadLibrosBiblioteca;
 
 // ¿Cómo guardarías el código de barras de un producto?
         String codigoBarrasProducto;
@@ -138,7 +138,7 @@ public class Main {
         String codigoProductoNoNumerico;
 
 // ¿Cómo indicarías la cantidad de visitantes de un sitio web?
-        int cantidadVisitantesSitioWeb;
+        long cantidadVisitantesSitioWeb;
 
 // ¿Dónde sabrías si un pago está confirmado o no?
         boolean pagoConfirmado;
