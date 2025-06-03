@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // ¿Con qué variable almacenarías la edad de una persona?
-        String edadPersona;
+        byte edadPersona;
 
 // ¿En qué variable guardarías el precio de un producto con decimales?
         double precioProducto;
@@ -39,7 +39,7 @@ public class Main {
         double temperaturaAmbiente;
 
 // ¿Dónde guardarías un número de teléfono?
-        String numeroTelefono;
+        Short numeroTelefono;
 
 // ¿En qué variable pondrías la fecha de nacimiento de una persona?
         String fechaNacimiento; // O un tipo de dato de fecha específico, como LocalDate en Java 8+
