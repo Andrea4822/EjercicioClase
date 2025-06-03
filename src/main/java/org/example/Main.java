@@ -12,7 +12,7 @@ public class Main {
         double precioProducto;
 
 // ¿Dónde guardarías la cantidad de hijos de una familia?
-        int cantidadHijos;
+        Integer cantidadHijos;
 
 // ¿Cómo guardarías el salario de un trabajador?
         double salarioTrabajador;
@@ -30,7 +30,7 @@ public class Main {
         String matriculaVehiculo;
 
 // ¿Dónde guardarías la cantidad de productos disponibles en un almacén?
-        int cantidadProductosDisponibles;
+        Integer cantidadProductosDisponibles;
 
 // ¿Cómo guardarías la distancia en kilómetros entre dos ciudades?
         Double distanciaEntreCiudadesKm;
